@@ -18,12 +18,12 @@ This tool is **not intended for abuse** — it’s for people who know what they
 ---
 
 
-- 📬 Bulk email sending  
-- 🧩 Custom templates  
-- 🔁 Queue & batch control  
-- 🕒 Delay & rate limiting  
-- 📄 Import recipient lists  
-- 🔐 Private / local use  
+-  Bulk email sending  
+-  Custom templates  
+-  Queue & batch control  
+-  Delay & rate limiting  
+-  Import recipient lists  
+-  Private / local use  
 
 ---
 
